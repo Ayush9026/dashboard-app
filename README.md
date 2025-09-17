@@ -14,7 +14,7 @@ A modern, responsive dashboard application built with React, Redux, and Vite.
 
 ## Live Demo
 
-Visit the live demo: [https://yourusername.github.io/dashboard-app](https://ayush9026.github.io/dashboard-app/)
+Visit the live demo: [https://ayush9026.github.io/dashboard-app/](https://ayush9026.github.io/dashboard-app/)
 
 ## Local Development
 
